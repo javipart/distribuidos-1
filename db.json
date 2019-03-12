@@ -1,44 +1,44 @@
 {
-  " persona " : [
+  "person":[
     {
-      " documento " : 1052395548 ,
-      " sueldo " : 1500000
-    }
+      "document": 1052395548,
+      "salary": 1500000
+    },
     {
-      " documento " : 1055274087 ,
-      " sueldo " : 1300000
-    }
+      "document": 1055274087,
+      "salary": 1300000
+    },
     {
-      " documento " : 1057606323 ,
-      " sueldo " : 1200000
-    }
+      "document": 1057606323,
+      "salary": 1200000
+    },
     {
-      " documento " : 46370677 ,
-      " sueldo " : 2100000
-    }
+      "document": 46370677,
+      "salary": 2100000
+    },
     {
-      " documento " : 7222502 ,
-      " sueldo " : 3200000
-    }
+      "document": 7222502,
+      "salary": 3200000
+    },
     {
-      " documento " : 46666154 ,
-      " sueldo " : 2000000
-    }
+      "document": 46666154,
+      "salary": 2000000
+    },
     {
-      " documento " : 1052387653 ,
-      " sueldo " : 4200000
-    }
+      "document": 1052387653,
+      "salary": 4200000
+    },
     {
-      " documento " : 7216460 ,
-      " sueldo " : 2200000
-    }
+      "document": 7216460,
+      "salary": 2200000
+    },
     {
-      " documento " : 23646834,
-      " sueldo " : 890000
-    }
+      "document": 23646832,
+      "salary": 890000
+    },
     {
-      " documento " : 4136989,
-      " sueldo " : 789000
+      "document": 4136989,
+      "salary": 789000
     }
   ]
 }

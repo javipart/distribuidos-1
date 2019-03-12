@@ -1,0 +1,44 @@
+{
+  " persona " : [
+    {
+      " documento " : 1052395548 ,
+      " sueldo " : 1500000
+    }
+    {
+      " documento " : 1055274087 ,
+      " sueldo " : 1300000
+    }
+    {
+      " documento " : 1057606323 ,
+      " sueldo " : 1200000
+    }
+    {
+      " documento " : 46370677 ,
+      " sueldo " : 2100000
+    }
+    {
+      " documento " : 7222502 ,
+      " sueldo " : 3200000
+    }
+    {
+      " documento " : 46666154 ,
+      " sueldo " : 2000000
+    }
+    {
+      " documento " : 1052387653 ,
+      " sueldo " : 4200000
+    }
+    {
+      " documento " : 7216460 ,
+      " sueldo " : 2200000
+    }
+    {
+      " documento " : 23646834,
+      " sueldo " : 890000
+    }
+    {
+      " documento " : 4136989,
+      " sueldo " : 789000
+    }
+  ]
+}
